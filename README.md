@@ -1,5 +1,5 @@
 # Hi there, I'm Swayam 👋
-- Software Developer passionate about Data Structures & Algorithms, Full Stack Web Development, AI/ML, and Data Analytics.
+ Software Developer passionate about Data Structures & Algorithms, Full Stack Web Development, AI/ML, and Data Analytics.
 
 • DSA: C++ (STL) & Java (Collections) | Dynamic Programming, Graphs, Trees
 
